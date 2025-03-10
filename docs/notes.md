@@ -2,3 +2,4 @@
 
 Notes and usage details for awesome-inspiration.
 - fix a small wording issue
+- clarify the setup steps
